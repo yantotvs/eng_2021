@@ -130,3 +130,8 @@ a:hover{
     background-position-x: 95%;
     background-position-y: center;
 }
+.product-quantity { 
+    float: none; width: 14%; 
+    padding: 0 1vh;
+    
+}
