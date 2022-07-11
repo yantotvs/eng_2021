@@ -57,6 +57,27 @@ body{
   
   /* rtl:end:remove */
   
+  .item-carrossel {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .item-carrossel-1 {
+    background-image: url('../image/walter.jpeg');
+    background-position: center -70px;
+  }
+  
+  .item-carrossel-2 {
+    background-image: url('../image/cabecaDeLampada.jpeg');
+    background-position: center -320px;
+  }
+
+  .item-carrossel-3 {
+    background-image: url('../image/leanderson.jpeg');
+    background-position: center -320px;
+  }
+
   /* RESPONSIVE CSS
   -------------------------------------------------- */
   
